@@ -1,0 +1,1 @@
+del /s /q ..\ui_template\*.html
